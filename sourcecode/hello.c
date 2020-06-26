@@ -7,8 +7,13 @@ void somethingremotely()
 {
 	printf("...");
 }
-int main()
+void extraFunction()
 {
+	printf("heyyyyy");
+}
+int main()
+{	
+	extraFunction();
 	somethingremotely();
 	hello();
 	return 0;
