@@ -7,7 +7,7 @@ void somethingremotely()
 {
 	printf("...");
 }
-
+// putting comment in local
 int letsshow()
 {
 	printf("letsDisplay");

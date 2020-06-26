@@ -1,4 +1,4 @@
-
+//this program is to check confilct with remote changes.
 int sum( int a ,int b)
 {
 	return a+b;
