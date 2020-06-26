@@ -11,7 +11,8 @@ void somethingremotely()
 int letsshow()
 {
 	printf("letsDisplay");
-
+}
+// heyyyy remote its is
 int testshow()
 {
 	printf("testDisplay");
