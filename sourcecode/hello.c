@@ -7,9 +7,9 @@ void somethingremotely()
 {
 	printf("...");
 }
-int show()
+int testshow()
 {
-	printf("Display");
+	printf("testDisplay");
 }
 int main()
 {	
