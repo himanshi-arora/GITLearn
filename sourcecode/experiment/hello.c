@@ -7,9 +7,15 @@ void somethingremotely()
 {
 	printf("...");
 }
+
 int letsshow()
 {
 	printf("letsDisplay");
+
+int testshow()
+{
+	printf("testDisplay");
+
 }
 int main()
 {	
